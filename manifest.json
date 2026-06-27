@@ -1,0 +1,26 @@
+{
+  "short_name": "Oracle",
+  "name": "Oracle • Life Simulator",
+  "description": "AI-powered life simulation engine. See your future, shape your path.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "lifestyle"],
+  "screenshots": []
+}
